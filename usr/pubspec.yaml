@@ -40,7 +40,6 @@ dependencies:
 
   # TensorFlow Lite for Flutter
   tflite_flutter: ^0.10.1
-  tflite_flutter_helper: ^0.3.4
 
   # USB Serial for Arduino communication (Android)
   usb_serial: ^0.4.0
