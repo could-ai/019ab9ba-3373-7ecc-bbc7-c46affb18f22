@@ -1,0 +1,5 @@
+assets/
+  models/
+    # Place MobileNet model files here
+    # mobilenet_v2.tflite
+    # labels.txt
